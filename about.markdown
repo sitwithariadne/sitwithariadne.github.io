@@ -21,7 +21,9 @@ In the spirit of giving this blog isn't monetized. Most of the content I write i
 I hope nothing I've written on this blog causes myself or others to come to harm.
 
 **Contact Me**
+
 Email: sit with ariadne [at] gmail [dot] com
+
 Discord: Ariadne#1234
 
 **redirect:**  [sitwithariadne.com/this-is-me](http://sitwithariadne.com/this-is-me)  
