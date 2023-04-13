@@ -1,4 +1,8 @@
-﻿### DBT - Ending Relationships - Interpersonal Effectiveness Handout 13[^Reference]
+﻿---
+title: DBT - Ending Relationships
+---
+
+### DBT - Ending Relationships - Interpersonal Effectiveness Handout 13[^Reference]
 
 [^Reference]:  This article is based on:
 	 *[DBT Skills Training Handouts and Worksheets, Second Edition](https://www.guilford.com/books/DBT-Skills-Training-Handouts-and-Worksheets/Marsha-Linehan/9781572307810).* 
