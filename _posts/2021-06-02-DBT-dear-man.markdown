@@ -1,4 +1,8 @@
-﻿### DBT - Guidelines for Objectives Effectiveness: Getting What You Want[^Reference]
+﻿---
+title: DBT Dear Man
+---
+
+### DBT - Guidelines for Objectives Effectiveness: Getting What You Want[^Reference]
 
 [^Reference]:  This article is based on
 
