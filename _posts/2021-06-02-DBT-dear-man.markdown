@@ -1,5 +1,5 @@
 ﻿---
-title: DBT Dear Man
+title: DBT - Dear Man
 ---
 
 ### DBT - Guidelines for Objectives Effectiveness: Getting What You Want[^Reference]
