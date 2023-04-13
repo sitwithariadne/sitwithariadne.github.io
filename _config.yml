@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sit With Ariadne
+# title: Sit With Ariadne
 email: sitwithariadne [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my blog where I post stuff I feel can help others.
+  My material is [Copyright CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). Other material provided via [Fair Use](https://www.copyright.gov/help/faq/faq-fairuse.html).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  sitwithariadne
+# github_username:  sitwithariadne
 
 # Build settings
 theme: minima
