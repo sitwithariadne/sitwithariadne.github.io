@@ -27,5 +27,3 @@ Discord: Ariadne#1234
 **redirect:**  [sitwithariadne.com/this-is-me](http://sitwithariadne.com/this-is-me)  
 v2.2 - Last edit 12-Apr-2023  
 © 2023. This work is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (Dedicated to public domain)
-
-
